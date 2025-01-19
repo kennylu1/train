@@ -114,6 +114,7 @@ public class Program
         }
     }
 
+
     // 日誌記錄方法，用於將錯誤訊息記錄到日誌檔案中
     //private static void LogError(string outputFolder, string message)
     //{
